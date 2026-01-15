@@ -1,25 +1,33 @@
 <img src="https://raw.githubusercontent.com/pysimhub/pysimhub.github.io/main/static/branding/logo-with-text.svg" alt="PySimHub" width="500">
 
-**Discover Python simulation tools across all domains.**
+## About
 
-[pysimhub.io](https://pysimhub.io)
+PySimHub is an open community catalog for Python simulation tools. We help researchers, engineers, and developers discover libraries across all simulation domains - from robotics and control systems to fluid dynamics and agent-based modeling.
 
----
+**Website:** [pysimhub.io](https://pysimhub.io)
 
-PySimHub is an open community catalog for Python simulation and numerics libraries. We help researchers, engineers, and developers find the right tools for their simulation needs.
+## Submit a Project
 
-### Filter by tags
-
-Search and filter projects by tags like `control`, `robotics`, `block-diagram`, `rf`, `digital-twin`, `dynamic-systems`, and more.
-
-### Contribute
-
-- [Submit a project](https://github.com/pysimhub/pysimhub.github.io/issues/new?template=project_submission.yml) - Add your library to PySimHub
-- [Update a project](https://github.com/pysimhub/pysimhub.github.io/issues/new?template=project_update.yml) - Fix links or update info
-- [Remove a project](https://github.com/pysimhub/pysimhub.github.io/issues/new?template=project_removal.yml) - Request removal
+Have a Python simulation library you'd like to add?
 
 **Requirements:**
-- Open-source license
+- Open source with a recognized license
 - Available on PyPI or conda-forge
-- Documentation or README with examples
-- Related to simulation or scientific computing
+- Active maintenance (updated within the last 2 years)
+- Documentation available
+
+**How to submit:**
+
+Use our [submission form](https://github.com/pysimhub/pysimhub.github.io/issues/new?template=project_submission.yml) - a PR will be created automatically.
+
+## Update a Project
+
+Need to fix a broken link or update project information?
+
+Use our [update form](https://github.com/pysimhub/pysimhub.github.io/issues/new?template=project_update.yml) - a PR will be created automatically.
+
+## Remove a Project
+
+Need to remove a project (abandoned, duplicate, author request)?
+
+Use our [removal form](https://github.com/pysimhub/pysimhub.github.io/issues/new?template=project_removal.yml) - a PR will be created for maintainer review.
