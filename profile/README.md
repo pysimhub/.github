@@ -1,4 +1,4 @@
-# PySimHub
+<img src="https://raw.githubusercontent.com/pysimhub/pysimhub.github.io/main/static/branding/logo-with-text.svg" alt="PySimHub" width="500">
 
 **Discover Python simulation tools across all domains.**
 
@@ -8,13 +8,15 @@
 
 PySimHub is an open community catalog for Python simulation and numerics libraries. We help researchers, engineers, and developers find the right tools for their simulation needs.
 
-### Browse by tags
+### Browse by domain
 
-Robotics · Control Systems · Fluid Dynamics · Agent-Based Modeling · Discrete-Event · FEM/PDE · Molecular Dynamics · Optimization · and more...
+Robotics · Control Systems · Block Diagrams · Digital Twins · RF/Microwave · Dynamic Systems · and more...
 
-### Submit your project
+### Contribute
 
-Have a Python simulation library? [Add it to PySimHub](https://pysimhub.io/submit) and help others discover your work.
+- [Submit a project](https://github.com/pysimhub/pysimhub.github.io/issues/new?template=project_submission.yml) - Add your library to PySimHub
+- [Update a project](https://github.com/pysimhub/pysimhub.github.io/issues/new?template=project_update.yml) - Fix links or update info
+- [Remove a project](https://github.com/pysimhub/pysimhub.github.io/issues/new?template=project_removal.yml) - Request removal
 
 **Requirements:**
 - Open-source license
