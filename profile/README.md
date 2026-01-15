@@ -8,9 +8,9 @@
 
 PySimHub is an open community catalog for Python simulation and numerics libraries. We help researchers, engineers, and developers find the right tools for their simulation needs.
 
-### Browse by domain
+### Filter by tags
 
-Robotics · Control Systems · Block Diagrams · Digital Twins · RF/Microwave · Dynamic Systems · and more...
+Search and filter projects by tags like `control`, `robotics`, `block-diagram`, `rf`, `digital-twin`, `dynamic-systems`, and more.
 
 ### Contribute
 
